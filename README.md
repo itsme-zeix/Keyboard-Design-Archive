@@ -1,17 +1,19 @@
 # Past-Keyboard-Designs
 ==WIP==
  - To do
-   - Include images of Hera R2
    - Include proto images for Hera R2
    - Details and images of Hera R1
 
 # Past PCB Designs
 Largely prototypes made for clients' potential designs.
+- My designs typically avoid SOD diodes in exchange for standard 0805 diodes for increased mechanical stability.
+- Size of pads are larger in hopes that they will adhere better and be less likely to lift.
+- Prototypes are done with HASL while large scale production are done with ENIG.
 
 ## Burrito ##
 Commissioned by shostudios.
 
-Uses duplex matrix to reduce microcontroller pins required.
+Uses duplex matrix to reduce the number of microcontroller pins required.
 
 ![20230310_144009](https://user-images.githubusercontent.com/102467346/226098082-88393bac-b7e3-4517-8ff9-0756d7c693c3.jpg)
 ![image (1)](https://user-images.githubusercontent.com/102467346/226098075-13269a90-e03b-4652-a3c9-43256e1b4de5.png)
@@ -63,16 +65,20 @@ Uses a half plate with a 1.2mm PCB that has a flex cut between rows 2 and 3. PCB
   - 50A and 70A O Ring
   - Necessary screws
   
- Renders courtesy of tarqn and aja:
+ __Renders courtesy of Tarqn and aja:__
  ![Hera_8_silver](https://user-images.githubusercontent.com/102467346/226098902-af72edf3-cbda-4a88-92d7-da4443b9529d.png)
 ![7hera](https://user-images.githubusercontent.com/102467346/226098937-a8ba6841-630e-4630-8da5-fc7dfa8697c2.png)
 ![5hera](https://user-images.githubusercontent.com/102467346/226098945-d6500693-ed9f-4e41-8f8c-255a076d1d85.png)
 
- Images courtesy of Mecha Store:
- 
-[TBD]
+ __Images courtesy of Mecha Store:__
+![ezgif-5-f1456fa4ae (1)](https://user-images.githubusercontent.com/102467346/226122168-acdee775-094e-4358-8542-173d8222c669.jpg)
+ ![ezgif-5-e81a0c605f](https://user-images.githubusercontent.com/102467346/226122181-1a6c1c8c-805a-4810-9afd-28c4ed8e3507.jpg)
+![ezgif-5-44a1905d69](https://user-images.githubusercontent.com/102467346/226122187-0f67638b-0713-4c6d-8038-93c3f938cbba.jpg)
+ ![ezgif-5-e727607c20](https://user-images.githubusercontent.com/102467346/226122161-d891fc4b-1454-4044-9fed-ff7105e9bf54.jpg)
+![HeraCarryingCase_1024x1024@2x](https://user-images.githubusercontent.com/102467346/226122273-40f332e5-d56a-4661-8b26-270bdd3c6b7d.jpg)
 
-** Hera R1 **
+
+## Hera R1 ##
 Prototype FNF run to test out our design.
 
  - Black anodized case, brushed brass weight, aluminium half plate
