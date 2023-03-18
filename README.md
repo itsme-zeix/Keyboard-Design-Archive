@@ -6,7 +6,7 @@
 
 # Past PCB Designs
 Largely prototypes made for clients' potential designs.
-- My designs typically avoid SOD diodes in exchange for standard 0805 diodes for increased mechanical stability.
+- My designs typically avoid SOD diodes in favour of standard 0805 diodes for increased mechanical stability.
 - Size of pads are larger in hopes that they will adhere better and be less likely to lift.
 - Prototypes are done with HASL while large scale production are done with ENIG.
 
@@ -57,8 +57,9 @@ Uses a half plate with a 1.2mm PCB that has a flex cut between rows 2 and 3. PCB
   - Reduced distance between case floor and PCB
   - Switched from aluminium to FR4 plates
   - Added front lip
+  - Decreased size of the channel for the JST cable
 - Retailed for $320SGD for the base kit which includes:
-  - Hera Case (Silver, Black or Lilac)
+  - Hera Case (Silver, Black or Lilac) with sandblasted brass weight
   - 1.2mm PCB, daughterboard and JST cable
   - FR4 Half Plate
   - Carrying Case
@@ -77,10 +78,13 @@ Uses a half plate with a 1.2mm PCB that has a flex cut between rows 2 and 3. PCB
  ![ezgif-5-e727607c20](https://user-images.githubusercontent.com/102467346/226122161-d891fc4b-1454-4044-9fed-ff7105e9bf54.jpg)
 ![HeraCarryingCase_1024x1024@2x](https://user-images.githubusercontent.com/102467346/226122273-40f332e5-d56a-4661-8b26-270bdd3c6b7d.jpg)
 
+__Some images from the R2 design phase__
+![IMG-20210608-WA0009](https://user-images.githubusercontent.com/102467346/226123901-8b373491-9e36-44c2-aa0e-f13f3956132e.jpg)
+![IMG-20210725-WA0016](https://user-images.githubusercontent.com/102467346/226123904-87159960-addf-4cea-ac69-5b14976e46c4.jpg)
 
-## Hera R1 ##
+
+## Hera Alpha Edition (R1) ##
 Prototype FNF run to test out our design.
 
- - Black anodized case, brushed brass weight, aluminium half plate
- - PCB based off the open-sourced plain60
- - 
+ - Black anodized case, brushed brass weight, aluminium half plate.
+ - PCB based off the open-sourced plain60, added a flex cut between row 2 and 3.
