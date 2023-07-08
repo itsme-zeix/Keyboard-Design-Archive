@@ -1,6 +1,5 @@
 # Past-Keyboard-Designs
-==WIP==
-Scroll further down to see keyboard (non-pcb) designs! (Includes some amazing pictures!)
+__Scroll further down to see keyboard (non-pcb) designs! (Includes some amazing pictures!)__
 
 # Past PCB Designs
 Shown below are mostly prototypes made for clients' potential designs.
