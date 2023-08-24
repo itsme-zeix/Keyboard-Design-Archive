@@ -1,10 +1,10 @@
 # Past-Keyboard-Designs
-__Scroll further down to see keyboard (non-pcb) designs! (Includes some amazing pictures!)__
+__Scroll further down to see keyboard (non-pcb) designs!__
 
 # Past PCB Designs
 Shown below are mostly prototypes made for clients' potential designs.
-- My designs typically avoid SOD diodes in favour of standard 0805 diodes for increased mechanical stability.
-- Size of pads are larger in hopes that they will adhere better and be less likely to lift.
+- My designs typically avoid SOD diodes in favour of standard 0805 diodes which are less likely to shear off.
+- Size of switch through-hole pads are larger in hopes that they will adhere better and be less likely to lift.
 
 ## dnworks.co 997.3 TKL ##
 WIP. Minimised ground plane size to match the OTD aesthetic.
