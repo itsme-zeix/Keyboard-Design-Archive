@@ -30,11 +30,17 @@
 - Image featured is the prototype (hence the hand-soldered sockets).
 
 ![qq proto 2](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/267357ec-522a-416e-a060-835b6453ae99)
-![qq proto 1](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/a54f297f-8f6c-4644-9833-f0a8f9f3f6fa)
+![QQ60_production](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/f8a0cab9-ece6-4c18-851a-11233342b915)
+
 
 ## Trial PCB Art ##
 - Uses a mix of silkscreen, soldermask, exposed copper and exposed substrate to achieve multiple colours.
+- Rounded traces if you love them.
 ![ExposedCopperSamples](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/fefdeb3a-c165-4ca8-86c4-2d317119f85e)
+![rounded_traces](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/ae5afc8e-262c-4982-ad5c-26a9d0da3b97)
+
+## dnworks.co Numpad ## 
+![DN_numpad](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/01ae3189-a3eb-4b33-9aac-797385bc1fb1)
 
 ## KAI Eden ##
 
