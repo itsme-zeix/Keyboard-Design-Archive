@@ -1,13 +1,16 @@
 # Past-Keyboard-Designs
-__Scroll further down to see keyboard (non-pcb) designs!__
 
 # Past PCB Designs
-Shown below are mostly prototypes made for clients' potential designs.
 - My designs typically avoid SOD diodes in favour of standard 0805 diodes which are less likely to shear off.
 - Size of switch through-hole pads are larger in hopes that they will adhere better and be less likely to lift.
 
-## dnworks.co 997.3 TKL ##
-WIP. Minimised ground plane size to match the OTD aesthetic.
+## 
+
+## dnworks.co 997.3/765LT/SVJ TKLs ##
+![SVJ_front](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/61b85ef1-157b-482a-8c12-b3d466ad0a0b)
+![SVJ_Back](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/843396ba-9dc0-47c1-8e6b-63a8f90a4e2f)
+![765LT](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/08c12ac6-ff4a-46e8-8e71-fa183e1e2af2)
+
 
 ## QwertyQop Hotswap 60% ##
 Commissioned by QwertyQop.
