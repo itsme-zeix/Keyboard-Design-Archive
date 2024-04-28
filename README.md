@@ -32,6 +32,10 @@
 ![qq proto 2](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/267357ec-522a-416e-a060-835b6453ae99)
 ![qq proto 1](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/a54f297f-8f6c-4644-9833-f0a8f9f3f6fa)
 
+## Trial PCB Art ##
+- Uses a mix of silkscreen, soldermask, exposed copper and exposed substrate to achieve multiple colours.
+![ExposedCopperSamples](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/fefdeb3a-c165-4ca8-86c4-2d317119f85e)
+
 ## KAI Eden ##
 
 ## Hex Keyboards HEX.4B v2 solder/hotswap ##
