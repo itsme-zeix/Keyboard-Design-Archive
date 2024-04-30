@@ -7,7 +7,7 @@
 - For commissions or inquiries, please direct message me on Discord @zeix.
 
 ## Lain ##
-- One off commission designed in collaboration for yz for Squashy Boy. Features a TFT display to show image/gif.
+- One off commission designed in collaboration with yz for Squashy Boy. Features a TFT display to show image/gif.
 
 ![lain](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/1776e69d-0b11-4421-b921-47999bfa80e9)
 
