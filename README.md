@@ -5,12 +5,11 @@
   - [SingaKBD Kohaku R2 Soldered & Hotswap](#singakbd-kohaku-r2-soldered--hotswap)
   - [Lain](#lain) 
   - [DN Alisea](#dn-alisea)
-  - [DN Seven](#dn-seven)
   - [DN 925](#dn-925)
   - [DN Realforce Daughterboard](#dn-realforce-daughterboard)
   - [Typface Univers Soldered & Hotswap 70%](#typface-univers-soldered--hotswap-70)
   - [DN 997.3/765LT/SVJ TKLs](#dn-9973765ltsvj-tkls)
-  - [qwertyqop QQ60 Hotswap PCB](#qwertyqop-qq60-hotswap-pcb)
+  - [qwertyqop QQ60 Hotswap](#qwertyqop-qq60-hotswap)
   - [Trial PCB Art](#trial-pcb-art)
   - [DN Numpad](#dn-numpad)
   - [KAI Eden](#kai-eden)
@@ -31,11 +30,15 @@ Note that the list of projects below is non-exhaustive. There are projects still
 - I use larger sized throughhole pads and teardrops in hopes that the pads will adhere better and be less likely to lift when soldering.
 
 For commissions or inquiries, please direct message me on Discord @zeix.
+
 ### SingaKBD x Rubrehose x KLC Playground Rubrehaku
-To be added
+Group buy completed, currently in production. See https://prototypist.net/products/group-buy-rubrehaku-singa-keyboard-kit. Images will be added upon GB completion.
 
 ### SingaKBD Kohaku R2 Soldered & Hotswap
-To be added
+Available at [KLC Playground](https://klc-playground.com/collections/singa-kbd/products/instock-kohaku-extra-parts)
+
+<img src="https://github.com/user-attachments/assets/1146cbd7-cd45-4e79-bef1-56c18f0bb72e" alt="KohakuFront" width="600">
+<img src="https://github.com/user-attachments/assets/fadfd7cc-b918-43c0-acc7-154e9644453c" alt="KohakuBack" width="600">
 
 ### Lain
 This project was a one off commission designed in collaboration with yz for Squashy Boy. You can check out his video [here](https://youtu.be/KJbTZ06ZaB4?si=rEDmcRYNUsHE81eT)!
@@ -49,13 +52,12 @@ For future iterations, I would probably use a separate microcontroller dedicated
 <img src="https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/1776e69d-0b11-4421-b921-47999bfa80e9" alt="lain" width="500">
 
 ### DN Alisea
-To be added
-
-### DN Seven
-To be added
+Alice layout  
+![IMG_2413](https://github.com/user-attachments/assets/b94d9cdb-e3c8-4a60-abc2-64b82dee2b9f)
+![IMG_2414](https://github.com/user-attachments/assets/7835b162-483a-490d-be4d-b384c60d8a74)
 
 ### DN 925 
-To be added
+Full size with individually reconfigurable WS812 LED.
 
 ### DN Realforce Daughterboard
 To be added
@@ -88,7 +90,6 @@ This project was  inspired by some PCBs I saw that used a mix of silkscreen, sol
 I also played around a little with rounded traces in this design too.
 
 <img src="https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/ae5afc8e-262c-4982-ad5c-26a9d0da3b97" alt="RoundedTraces" width="600">
-
 
 ### DN Numpad
 Peep the idb60 and the NEAT glass that I used for coffee!
