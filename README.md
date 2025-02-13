@@ -1,12 +1,13 @@
 # Table of Contents
 - [PCB Designs](#pcb-designs)
+
+  - [SingaKBD x Rubrehose x KLC Playground Rubrehaku](#singakbd-x-rubrehose-x-klc-playground-rubrehaku)
+  - [SingaKBD Kohaku R2 Soldered & Hotswap](#singakbd-kohaku-r2-soldered--hotswap)
+  - [Lain](#lain) 
   - [DN Alisea](#dn-alisea)
   - [DN Seven](#dn-seven)
   - [DN 925](#dn-925)
-  - [SingaKBD x Rubrehose x KLC Playground Rubrehaku](#singakbd-x-rubrehose-x-klc-playground-rubrehaku)
-  - [SingaKBD Kohaku R2 Soldered & Hotswap](#singakbd-kohaku-r2-soldered--hotswap)
   - [DN Realforce Daughterboard](#dn-realforce-daughterboard)
-  - [Lain](#lain)
   - [Typface Univers Soldered & Hotswap 70%](#typface-univers-soldered--hotswap-70)
   - [DN 997.3/765LT/SVJ TKLs](#dn-9973765ltsvj-tkls)
   - [qwertyqop QQ60 Hotswap PCB](#qwertyqop-qq60-hotswap-pcb)
@@ -30,23 +31,10 @@ Note that the list of projects below is non-exhaustive. There are projects still
 - I use larger sized throughhole pads and teardrops in hopes that the pads will adhere better and be less likely to lift when soldering.
 
 For commissions or inquiries, please direct message me on Discord @zeix.
-
-### DN Alisea
-To be added
-
-### DN Seven
-To be added
-
-### DN 925 
-To be added
-
 ### SingaKBD x Rubrehose x KLC Playground Rubrehaku
 To be added
 
 ### SingaKBD Kohaku R2 Soldered & Hotswap
-To be added
-
-### DN Realforce Daughterboard
 To be added
 
 ### Lain
@@ -59,6 +47,18 @@ We ended up making a compromise by having a 'boot-up' GIF played when the keyboa
 For future iterations, I would probably use a separate microcontroller dedicated to the display.
 
 <img src="https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/1776e69d-0b11-4421-b921-47999bfa80e9" alt="lain" width="500">
+
+### DN Alisea
+To be added
+
+### DN Seven
+To be added
+
+### DN 925 
+To be added
+
+### DN Realforce Daughterboard
+To be added
 
 ### Typface Univers Soldered & Hotswap 70%
 ![SCR-20240428-ldav](https://github.com/itsme-zeix/Past-Keyboard-Work/assets/102467346/97e010a5-a032-498d-82c1-b30fe7c6941e)
